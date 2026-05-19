@@ -46,12 +46,8 @@ Built with a focus on accessibility, transparency, and gamified civic participat
 - FastAPI
 
 ### Database
-- MongoDB Atlas
-- SQLite
-
-### AI / APIs
-- Gemini API / Google GenAI
-
+- MongoDB
+  
 ---
 
 ## 🎯 Vision
@@ -63,36 +59,15 @@ We believe civic participation should be:
 - Engaging
 - Transparent
 - Rewarding
-
----
-
-## 📸 Preview
-
-> Add screenshots/gifs of your dashboard, issue reporting flow, maps, or mobile responsiveness here.
-
-Example:
-
-```md
-![Dashboard Screenshot](./assets/dashboard.png)
-```
-
+  
 ---
 
 ## ⚡ Challenges Solved
 
 - Optimized real-time mission updates using Node.js & Express
-- Improved AI response speed with FastAPI integration
 - Enhanced database performance using MongoDB Atlas optimizations
 - Built a fully responsive UI with Tailwind CSS
 - Reduced misinformation verification delays using local caching
-
----
-
-## 🏆 Achievements
-
-- Built during a hackathon environment
-- Focused on real-world civic impact
-- Combined AI, gamification, and community collaboration into one ecosystem
 
 ---
 
@@ -122,25 +97,12 @@ npm run dev
 - Mobile application support
 - Blockchain-based transparency logs
 - Public analytics dashboard
-
----
-
-## 👨‍💻 Contributors
-
-- Krish Verma
-- Team CiviX
-
+  
 ---
 
 ## 💡 Inspiration
 
 CiviX was created with the idea that technology should strengthen communities and make civic responsibility more collaborative, transparent, and impactful.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
